@@ -1,0 +1,8 @@
+name: 'Commerce Order Item Addon'
+type: module
+description: 'Allows any fieldable entity to bundle with a product variation making it a purchasable entity type.'
+core: 8.x
+package: 'Commerce (custom)'
+dependencies:
+  - drupal:commerce_xquantity
+  - drupal:readmehelp
